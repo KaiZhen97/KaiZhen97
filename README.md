@@ -47,14 +47,15 @@
 
 #### BIO 🙈 🙊 🙉
 
-- 🧑‍💻🏢 Currently working at **G-AsiaPacific**
+<!-- - 🧑‍💻🏢 Currently working at **G-AsiaPacific** -->
   <!-- - 3x AWS, 1x GCP, 2x Alibaba -->
   <!-- - ✅ _AWS Certified Solutions Architect – Professional_ -->
   <!-- - ✅ _Google Cloud Certified Cloud Digital Leader_ -->
   <!-- - ✅ _Alibaba Cloud Professional (ACP) - Cloud Computing_ -->
   <!-- - 🤖 Daily: AWS, GCP, Linux, Python -->
-- 🌍 Place: Willing to work in **🇸🇬Singapore**
-- 👾 Direction: **FullStack Dev**
+
+- 🌍 Place: Willing to work in **🇸🇬 Singapore**
+- 👾 Direction: **FrontEnd Developer**, **FullStack Developer**
 - 💬 Ping me about **anything**.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/kai-zhen-goh-472b121ba/)
 
