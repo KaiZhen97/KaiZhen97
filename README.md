@@ -1,6 +1,6 @@
 ## Hi Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-#### 😶‍🌫️ I'm a Cloud 💭 Engineer working in 🇲🇾Kuala Lumpur, Malaysia.
+#### 😶‍🌫️ I'm a Web Developer working in Johor Bahru, Malaysia.
 
 #### ⚡⚡⚡ Tech ⚡⚡⚡
 
@@ -57,23 +57,23 @@
 
 - 🧑‍💻🏢 Currently working at **G-AsiaPacific**
 - 3x AWS, 1x GCP, 2x Alibaba
-- ✅ *AWS Certified Solutions Architect – Professional*
-- ✅ *Google Cloud Certified Cloud Digital Leader*
-- ✅ *Alibaba Cloud Professional (ACP) - Cloud Computing*
+- ✅ _AWS Certified Solutions Architect – Professional_
+- ✅ _Google Cloud Certified Cloud Digital Leader_
+- ✅ _Alibaba Cloud Professional (ACP) - Cloud Computing_
 - 🤖 Daily: AWS, GCP, Linux, Python
 - 🌍 Place: Willing to work in **💻Remotely/🇸🇬Singapore/🇲🇾Malaysia**
 - 👾 Direction: **Web3**, **BlockChain**, **SmartContract**, **FullStack Dev**, **Startup**
 - 💬 Ping me about **anything**.
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/changweihong/)
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/kai-zhen-goh-472b121ba/)
 
 #### 📈 GitHub Stats
 
 <p align = "center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWeiHong&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiZhen97&layout=compact&theme=dark&hide_border=true)
 
-![ChangWeiHong's github stats](https://github-readme-stats.vercel.app/api?username=ChangWeiHong&show_icons=true&hide_border=true&theme=dark)
+![ChangWeiHong's github stats](https://github-readme-stats.vercel.app/api?username=KaiZhen97&show_icons=true&hide_border=true&theme=dark)
 
-![ChangWeiHong's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ChangWeiHong&theme=dark&hide_border=true)
+![ChangWeiHong's github streak](https://github-readme-streak-stats.herokuapp.com/?user=KaiZhen97&theme=dark&hide_border=true)
 
 </p>
