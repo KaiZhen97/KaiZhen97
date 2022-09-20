@@ -1,6 +1,6 @@
 ## Hi Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-#### 😶‍🌫️ I'm a Web Developer working in Johor Bahru, Malaysia.
+#### I'm a Web Developer working in Johor Bahru, Malaysia.
 
 #### 🔥🔥 Tech 🔥🔥
 
@@ -17,7 +17,7 @@
 
 </p>
 
-#### BIO 🙈 🙊 🙉
+#### BIO
 
 - 🌍 Place: Willing to work in **🇸🇬 Singapore**
 - 👾 Direction: **FrontEnd Developer**, **FullStack Developer**
