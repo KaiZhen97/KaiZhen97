@@ -1,6 +1,6 @@
 ## Hi Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-#### I'm a Web Developer working in Johor Bahru, Malaysia.
+#### I'm a Programmer working in Singapore
 
 #### 🔥🔥 Tech 🔥🔥
 
@@ -20,7 +20,7 @@
 #### BIO
 
 - 🌍 Place: Willing to work in **🇸🇬 Singapore**
-- 👾 Direction: **FrontEnd Developer**, **FullStack Developer**
+- 👾 Direction: **FrontEnd Developer**, **FullStack Developer**, **Database Administrator**
 - 💬 Ping me about **anything**.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/kai-zhen-goh-472b121ba/)
 
