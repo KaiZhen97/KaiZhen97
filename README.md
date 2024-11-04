@@ -19,7 +19,7 @@
 
 #### BIO
 
-- 🌍 Place: Willing to work in **🇸🇬 Singapore**
+- 🌍 Place: Work in **🇸🇬 Singapore**
 - 👾 Direction: **FrontEnd Developer**, **FullStack Developer**, **Database Administrator**
 - 💬 Ping me about **anything**.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/kai-zhen-goh-472b121ba/)
